@@ -1,0 +1,7 @@
+.emoji::after {
+  content: " \01F641";
+}
+
+.btn {
+  color: "#DAF7A6";
+}
